@@ -20,7 +20,7 @@ for how the downloads plugin and site plugin are configured.
 </servers>
 ```
 
-# Using the downloads plugin
+# Using the downloads plugjin
 
 ```
 $ cd github-maven-example/example
